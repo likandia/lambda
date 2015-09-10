@@ -1,0 +1,1 @@
+This repository contains Haskell files to print lambda terms in the proper syntax, using minimal characters.
